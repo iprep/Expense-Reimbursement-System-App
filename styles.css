@@ -1,0 +1,51 @@
+h1 {
+text-align: center;
+background-color: white;
+color: blue;
+font-family: cursive;
+font-weight: bold;
+text-transform: uppercase; 
+}
+h2 {
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase; 
+	font-family: cursive;
+}
+
+body {
+	background-color: grey;
+	border-width: medium 10px thick 15px;
+}
+p#p1 {
+	color: fuchsia
+}
+hr {
+	color: green;
+}
+.mycolor {
+	color:purple;
+	font-size: xx-large;
+}
+.important {
+	background-color: navy;
+	font-style: italic;
+}
+.notes {
+	background-color: gray;
+	font-style: oblique;
+}
+label {
+	font-family: times new roman;
+	font-style: italic;
+}
+A:link {
+	color: blue;
+}
+A:visited {
+	color: purple;
+}
+A:hover {
+	color: white;
+}
